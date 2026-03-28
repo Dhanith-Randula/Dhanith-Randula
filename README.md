@@ -4,7 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There+!+👋;+I'm+Dhanith+Randula+!;" />
 </h1>
 
-<h4 align="center">Aspiring Computer Engineering undergraduate at the University of Ruhuna, Sri Lanka, with a deep passion for web and mobile app development using MERN stack and Flutter. Skilled in UI/UX design through Figma, I enjoy blending my technical knowledge with creativity to build seamless user experiences. Eager to gain hands-on experience in real-world projects, contribute innovative ideas, and collaborate with like-minded professionals and industry experts.</h3>
+<!-- <h4 align="center">Aspiring Computer Engineering undergraduate at the University of Ruhuna, Sri Lanka, with a deep passion for web and mobile app development using MERN stack and Flutter. Skilled in UI/UX design through Figma, I enjoy blending my technical knowledge with creativity to build seamless user experiences. Eager to gain hands-on experience in real-world projects, contribute innovative ideas, and collaborate with like-minded professionals and industry experts.</h3> -->
+<h4 align="center">
+Computer Engineering graduate from the University of Ruhuna, Sri Lanka, specializing in web and mobile application development using the MERN stack and Flutter. Experienced in building scalable web applications using PHP, MySQL, and React. Proficient in UI/UX design with Figma, with a strong focus on creating efficient, user-centric solutions. Passionate about continuous learning and innovation, I am seeking opportunities to contribute to impactful projects and grow as a software engineer.
+</h4>
 
 
 
@@ -19,7 +22,7 @@
   
   ## 🚀 Current Focus
   
-  Focused on expanding my knowledge and skills in Web and Mobile Development, I am currently working on projects that involve Flutter and the MERN stack. I’m continuously exploring new technologies and methodologies to stay ahead and enhance my development expertise.
+  Focused on expanding my expertise in web and mobile development, I actively work on projects using Flutter, the MERN stack, as well as PHP, MySQL, and React. I continuously explore new technologies and best practices to deliver scalable, efficient, and user-friendly solutions.
 
   ## 🤝 Collaboration
   I’m open to collaborating on exciting and challenging projects. If you have a project idea or need assistance with a development task, feel free to reach out! Let’s build something amazing together.
